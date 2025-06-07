@@ -1,6 +1,6 @@
 ## 🐧 Olá :)
 
-- Sou dentista em transição para a área de tecnologia, atualmente estudando Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB). Tenho paixão por aprender na prática, desenvolvendo projetos que me motivam e que têm um significado real.
+- Sou dentista em transição para a área de tecnologia e, atualmente, estudo Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB). Gosto de aprender praticando e desenvolvendo projetos que me motivam e que tenham um significado real
 
 ## 🔹 Tecnologias
 

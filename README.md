@@ -11,6 +11,7 @@
 
 - Orientação a objetos
 - Desenvolvimento de interfaces gráficas
+- JavaScript
 
 ## 🔹 Como me encontrar
 

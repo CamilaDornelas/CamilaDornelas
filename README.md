@@ -9,9 +9,9 @@
 
 ## 🔹 Aprendendo agora
 
-- Orientação a objetos
-- Desenvolvimento de interfaces gráficas
-- JavaScript
+- Estrutura de dados
+- SQL
+- JavaScript 
 
 ## 🔹 Como me encontrar
 

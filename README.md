@@ -6,6 +6,8 @@
 
 - Python
 - Java
+- JavaScript
+- TypeScript
 
 ## 🔹 Aprendendo agora
 

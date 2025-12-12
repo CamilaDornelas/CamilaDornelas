@@ -4,7 +4,7 @@
 
 ## 🔹 Tecnologias
 
-- Python, Java, JavaScript, Node.js, Spring Boot, HTML, CSS
+- Python, Java, JavaScript, TypeScript, Node.js, Spring Boot, HTML, CSS, REACT
 
 ## 🔹 Aprendendo agora
 

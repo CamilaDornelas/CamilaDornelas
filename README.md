@@ -4,8 +4,7 @@
 
 ## 🔹 Tecnologias
 
-- Python, Java, JavaScript, TypeScript, Node.js, Spring Boot, SQL, HTML, CSS, React
-
+- Python, Java, JavaScript, TypeScript, Node.js, Spring Boot, SQL, HTML, CSS
 ## 🔹 Aprendendo agora
 
 - Estrutura de dados
